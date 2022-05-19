@@ -1,0 +1,15 @@
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\bin\Debug\net6.0\RPG_C#.exe
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\bin\Debug\net6.0\RPG_C#.deps.json
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\bin\Debug\net6.0\RPG_C#.runtimeconfig.json
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\bin\Debug\net6.0\RPG_C#.dll
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\bin\Debug\net6.0\RPG_C#.pdb
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.csproj.AssemblyReference.cache
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.AssemblyInfoInputs.cache
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.AssemblyInfo.cs
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.csproj.CoreCompileInputs.cache
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.dll
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\refint\RPG_C#.dll
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.pdb
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\RPG_C#.genruntimeconfig.cache
+C:\Users\kiele\Desktop\Programação\Jogos\RPG_C#\obj\Debug\net6.0\ref\RPG_C#.dll
